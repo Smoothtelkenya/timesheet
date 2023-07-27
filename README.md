@@ -7,7 +7,7 @@
 
 <!-- /!\ do not modify above this line -->
 
-# timesheet
+# Smoothtel timesheet
 
 TODO: add repo description.
 
